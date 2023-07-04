@@ -1,6 +1,6 @@
 # Youtube My Mate Nate-ify
 
-Sawaddee Kub Pob kub pom My My Mate Nate. One nee raw ja kao pai bon Youtube kong kun gun na karbbbb
+Sawaddee Kub Pob kub pom My My Mate Nate. One nee raw ja kao pai bon Youtube kong kun 24 HOURS gun na karbbbb
 
 Compatible with all browsers.
 
