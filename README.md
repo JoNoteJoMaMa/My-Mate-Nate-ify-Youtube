@@ -6,11 +6,11 @@ Compatible with all browsers.
 
 Due to my inspiration from My Mate Nate. I didn't write code myself. I copied all of code from [MrBeastify-Youtube](https://github.com/MagicJinn/MrBeastify-Youtube)
 
-.
-.
-.
-.
+.<br />
+.<br />
+.<br />
+.<br />
 This is just a joke extension. Please don't be serious
-**And I didn't copy code. it's just a My Mate Nate reference. _Full credit of this github, goes to [MrBeastify-Youtube](https://github.com/MagicJinn/MrBeastify-Youtube)_**
+**And this is a fork poject. it's just a My Mate Nate reference. _Full credit of this github, goes to [MrBeastify-Youtube](https://github.com/MagicJinn/MrBeastify-Youtube)_**
 
 
