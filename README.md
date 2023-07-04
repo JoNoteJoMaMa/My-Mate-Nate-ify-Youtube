@@ -1,11 +1,16 @@
-# Youtube MrBeastify
+# Youtube My Mate Nate-ify
 
-Enhance your browsing experience with MrBeastifier. Is your browser experience boring? Are you having trouble finding engaging click-baity videos? Fear no more. This extension adds famous youtuber MrBeast to every thumbnail.
+Sawaddee Kub Pob kub pom My My Mate Nate Lae One nee raw ja ma cop clip tuk clip bon Youtube gun na karbbbb
 
-[Firefox](http://addons.mozilla.org/en-GB/firefox/addon/mrbeastify-youtube/) | [Chrome](http://chrome.google.com/webstore/detail/youtube-mrbeastify/dbmaeobgdodeimjdjnkipbfhgeldnmeb) | [Edge](http://microsoftedge.microsoft.com/addons/detail/youtube-mrbeastify/jabaaojkmmljhmnheeihppepcmiadhll0)
+Compatible with all browsers.
 
-Compatible with all browsers (Firefox and Chromium based)
+Due to my inspiration from My Mate Nate. I didn't write code myself. I copied all of code from [MrBeastify-Youtube](https://github.com/MagicJinn/MrBeastify-Youtube)
 
-Notes:
-* This extension was inspired by [Unnecessary Inventions](http://www.youtube.com/@UnnecessaryInventions) and his [website](http://www.mrbeastify.com/)
-* This extension is unofficial and not affiliated with MrBeast or YouTube.
+.
+.
+.
+.
+This is just a joke extension. Please don't be serious
+**And I didn't copy code. it's just a My Mate Nate reference. _Full credit of this github, goes to [MrBeastify-Youtube](https://github.com/MagicJinn/MrBeastify-Youtube)_**
+
+
