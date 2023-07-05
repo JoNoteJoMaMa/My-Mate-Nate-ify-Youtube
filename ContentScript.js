@@ -32,7 +32,7 @@ function applyOverlayToThumbnails() {
   const elementQuery =
     "ytd-thumbnail:not(.ytd-video-preview, .ytd-rich-grid-slim-media) a > yt-image > img.yt-core-image:not(.processed):not(.yt-core-attributed-string__image-element)";
   const thumbnailElements = document.querySelectorAll(elementQuery);
-
+  // console.log(thumbnailElements)
   // Apply overlay to each thumbnail
   thumbnailElements.forEach((thumbnailElement) => {
     // Apply overlay and add to processed thumbnails
@@ -46,6 +46,22 @@ function applyOverlayToThumbnails() {
     }
   });
 }
+
+// function applyTextToVideoTitle() {
+//   const elementQuery = '#video-title.style-scope.ytd-rich-grid-media';
+//   const titleElements = document.querySelectorAll(elementQuery);
+//   titleElements.forEach((titleElement) => {
+//     let loops = Math.random() > 0.001 ? 1 : 20;
+//     for (let i = 0; i < loops; i++) {
+//       const originalText = titleElement.textContent;
+//       const modifiedText = 'สวัสดีครับผมMy mate Nate และวันนี้ผมจะมา' + originalText;
+//       titleElement.textContent = modifiedText;
+//       // console.log('Modified text:', modifiedText);
+//     }
+//   });
+// }
+
+// applyTextToVideoTitle();
 
 function checkImageExistence(index = 1) { // Checks for all images in the images folder instead of using a preset array, making the extension infinitely scalable
   const testedURL = chrome.runtime.getURL(`${imagesPath}${index}.png`);
