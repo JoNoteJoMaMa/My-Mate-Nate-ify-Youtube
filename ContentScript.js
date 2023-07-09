@@ -40,9 +40,8 @@ function applyOverlayToThumbnails() {
     for (let i = 0; i < loops; i++) {
       // Get overlay image URL from your directory
       const overlayImageUrl = getRandomImageFromDirectory();
-      const flip = Math.random() < 0.25; // 25% chance to flip the image
       if(overlayImageUrl != images[28] || overlayImageUrl != images[20]){
-        const flip = Math.random() < 0.25;
+        const flip = Math.random() < 0.25;// 25% chance to flip the image
         applyOverlay(thumbnailElement, overlayImageUrl, flip);
       }else{
         const flip = 0;
