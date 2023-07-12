@@ -40,8 +40,7 @@ function applyOverlayToThumbnails() {
     for (let i = 0; i < loops; i++) {
       // Get overlay image URL from your directory
       const overlayImageUrl = getRandomImageFromDirectory();
-      const detectImage = detectImages(overlayImageUrl)
-      if(detectImage != "19.png" && detectImage != "28.png"){
+      if(overlayImageUrl != images[18] && overlayImageUrl != images[27]){
         const flip = Math.random() < 0.25;// 25% chance to flip the image
         applyOverlay(thumbnailElement, overlayImageUrl, flip);
       }else{
@@ -56,12 +55,6 @@ function applyOverlayToThumbnails() {
 function getRandomImageFromDirectory() {
   const randomIndex = Math.floor(Math.random() * images.length);
   return images[randomIndex];
-}
-
-//Detect the name of image files
-function detectImages(overlayImageUrl) {
-  const detectImage = overlayImageUrl.substring(overlayImageUrl.lastIndexOf("/") + 1)
-  return detectImage;
 }
 
 // Checks for all images in the images folder instead of using a preset array, making the extension infinitely scalable
